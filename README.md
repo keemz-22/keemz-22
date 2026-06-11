@@ -1,16 +1,17 @@
-## Hi there 👋
+```
+# Security Researcher | Cairo
 
-<!--
-**keemz-22/keemz-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity Researcher focused on Network Security, Android Security, and Red Team operations.
 
-Here are some ideas to get you started:
+## Tools & Skills
+- Kali Linux, Frida, Burp Suite, Metasploit
+- CTF, Penetration Testing, API Security
+- Home Lab: Tailscale mesh network, Linux hardening
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- CTF Writeups & Security Research
+- Network Security Tools
+- Arabic Music Production (side project)
+```
+
+---
